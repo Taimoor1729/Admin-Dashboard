@@ -3,8 +3,8 @@ import './login.scss';
 
 function Login() {
     return (
-      <div className="home">
-     lama
+      <div className="login">
+     login page
       </div>
     );
   }
